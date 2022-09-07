@@ -1,2 +1,0 @@
-# redowan-bomb
-Bd
